@@ -1,0 +1,8 @@
+John 35 SoftwareEngineer
+Sarah 28 MarketingManager
+David 42 Doctor
+Emily 25 GraphicDesigner
+Michael 30 Lawyer
+Rachel 22 CollegeStudent
+James 45 BusinessOwner
+Lily 30 Journalist
